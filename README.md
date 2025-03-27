@@ -5,7 +5,7 @@ A simple Go library for converting between decimal and binary numbers.
 ## Installation
 
 ```sh
-go get github.com/michaelwp/binary-converter
+go get github.com/michaelwp/binaryConverter
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/michaelwp/binary-converter"
+	"github.com/michaelwp/binaryConverter"
 )
 
 func main() {
