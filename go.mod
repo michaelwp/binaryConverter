@@ -1,4 +1,4 @@
-module binaryConverter
+module github.com/michaelwp/binaryConverter
 
 go 1.22
 
